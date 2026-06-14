@@ -11,3 +11,5 @@ Basic Game Loop and Rendering
 Windows Operating System
 EasyX Graphics Library 
 C Language Compiler (Visual Studio )
+
+Since this game relies on a lot of textures, and I haven't quite figured out how to properly upload them to GitHub yet, this code won't run. Please just use it as a reference
